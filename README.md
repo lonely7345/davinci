@@ -19,7 +19,7 @@ Please download the latest [RELEASE](https://github.com/laincloud/lain/archive/v
 
 Get Help
 ============
-The fastest way to get response from our developers is to send email to our mail list <edp_support@groups.163.com>,
+The fastest way to get response from our developers is to send email to our mail list edp_support@groups.163.com,
 and you are also welcome to join our WeChat group for online discussion.
 [二维码]
 

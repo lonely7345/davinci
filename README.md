@@ -11,7 +11,7 @@ For more details, see the [WEBSITE](https://edp963.github.io/davinci).
 
 Documentation
 =============
-Please refer to [Davinci用户手册](https://edp-davinci.gitbooks.io/davinci-user-guide-cn/content),or download [PDF](https://www.gitbook.com/download/pdf/book/edp-davinci/davinci-user-guide-cn).
+Please refer to [Davinci用户手册](https://edp-davinci.gitbooks.io/davinci-user-guide-cn/content), or download [PDF](https://www.gitbook.com/download/pdf/book/edp-davinci/davinci-user-guide-cn).
 
 Latest Release
 =============

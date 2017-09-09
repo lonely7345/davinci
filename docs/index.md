@@ -5,7 +5,7 @@ Davinci
 
 > 可视洞察平台
 
-Davinci是一个DVAAS（Data Visualization as a Service）平台解决方案。Davinci面向业务人员/数据工程师/数据分析师/数据科学家，致力于提供一站式数据可视化解决方案。既可作为公有云/私有云独立使用，也可作为可视化插件集成到三方系统。用户只需在可视化UI上简单配置即可服务多种数据可视化应用，并支持高级交互/行业分析/模式探索/社交智能等可视化功能。
+来自宜信技术研发中心的作品Davinci，是一个DVAAS（Data Visualization as a Service）平台解决方案。Davinci面向业务人员/数据工程师/数据分析师/数据科学家，致力于提供一站式数据可视化解决方案。既可作为公有云/私有云独立使用，也可作为可视化插件集成到三方系统。用户只需在可视化UI上简单配置即可服务多种数据可视化应用，并支持高级交互/行业分析/模式探索/社交智能等可视化功能。
 
 For more details, see the [WEBSITE](https://edp963.github.io/davinci).
 

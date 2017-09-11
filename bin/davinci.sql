@@ -246,7 +246,7 @@ CREATE TABLE `user` (
 
 LOCK TABLES `user` WRITE;
 /*!40000 ALTER TABLE `user` DISABLE KEYS */;
-INSERT INTO `user` VALUES (1,'super@creditease.cn','123456','super','super',1,1,'2017-08-17 06:32:40',1,'2017-05-22 09:40:30',1);
+INSERT INTO `user` VALUES (1,'super@davinci.com','123456','super','super',1,1,'2017-08-17 06:32:40',1,'2017-05-22 09:40:30',1);
 /*!40000 ALTER TABLE `user` ENABLE KEYS */;
 UNLOCK TABLES;
 
